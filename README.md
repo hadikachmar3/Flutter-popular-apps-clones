@@ -13,6 +13,8 @@
 - **[Ubereats clone](https://github.com/hadikachmar3/Ubereats_clone)**
 - **[Whatsapp clone](https://github.com/hadikachmar3/whatsap_clone)**
 - **[Youtube clone](https://github.com/hadikachmar3/youtube_clone)**
+- **[Facebook clone](https://github.com/hadikachmar3/facebook_clone)**
+- **[Netflix_redesign](https://github.com/hadikachmar3/netflix_redesign)**
 
 
 
