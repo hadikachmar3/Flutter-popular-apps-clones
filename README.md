@@ -5,7 +5,7 @@
 
 
 - **[FB-Messenger clone](https://github.com/hadikachmar3/fb_messenger_clone)**
-- **[Instagram clone](https://github.com/hadikachmar3/Instagram_clone/blob/master/README.md)**
+- **[Instagram clone](https://github.com/hadikachmar3/Instagram_clone)**
 - **[Netflix clone](https://github.com/hadikachmar3/netflix_clone)**
 - **[Snapchat clone](https://github.com/hadikachmar3/Snapchat_clone)**
 - **[Spotify clone](https://github.com/hadikachmar3/spotify_clone)**
