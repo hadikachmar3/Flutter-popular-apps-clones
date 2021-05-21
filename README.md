@@ -15,8 +15,10 @@
 - **[Youtube clone](https://github.com/hadikachmar3/youtube_clone)**
 - **[Facebook clone](https://github.com/hadikachmar3/facebook_clone)**
 - **[Netflix_redesign](https://github.com/hadikachmar3/netflix_redesign)**
-
-
+- 
+- **[Github clone](https://github.com/hadikachmar3/github_clone)**
+- **[instagram UI Clone](https://github.com/hadikachmar3/instagram_Ui-clone)**
+- **[Whatsapp redesign](https://github.com/hadikachmar3/whatsapp_redesign)**
 
 
 
